@@ -49,7 +49,7 @@ _\* Indicates an operating system and release that previously was supported by t
 
 To use the installation scripts, simply run this command as root. The script will ask you whether you would like to install the blueprint software.
 
-Must Do ```cd var/www/pterodactyl``` Before Running Script !
+Must Do ```cd /var/www/pterodactyl``` Before Running Script !
 
 ```bash
 bash <(curl -s https://itsahmedog.github.io/blueprintscript/install.sh)
