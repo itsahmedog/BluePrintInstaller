@@ -86,18 +86,4 @@ echo -e "\e[1m  ✅ INSTALLED BLUEPRINT SUCCESSFULLY!  \e[0m"
 echo -e "\e[1m  ✅ YOU CAN NOW INSTALL EXTENSIONS!  \e[0m"
 echo -e "\e[1m--------------------------------------------\e[0m"
 echo ""
-===========================
 
-echo ""
-echo -e "\e[1m#############################################\e[0m"
-echo -e "\e[1m#                                           #\e[0m"
-echo -e "\e[1m#      █████  ██   ██ ███    ███ █████      #\e[0m"
-echo -e "\e[1m#     ██   ██ ██   ██ ████  ████ ██   ██    #\e[0m"
-echo -e "\e[1m#     ███████ ██   ██ ██ ████ ██ ███████    #\e[0m"
-echo -e "\e[1m#     ██   ██ ██   ██ ██  ██  ██ ██   ██    #\e[0m"
-echo -e "\e[1m#     ██   ██  █████  ██      ██ ██   ██    #\e[0m"
-echo -e "\e[1m#                                           #\e[0m"
-echo -e "\e[1m#############################################\e[0m"
-echo ""
-
-echo -e "\e[1mInstallation and setup completed successfully!  \e[0m"
