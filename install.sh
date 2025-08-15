@@ -42,8 +42,7 @@ yarn
 sudo apt install -y zip unzip git curl wget
 
 # Download latest BlueprintFramework release
-wget "$(curl -s https://api.github.com/repos/BlueprintFramework/framework/releases/latest \
-  | grep 'browser_download_url' | cut -d '"' -f 4)" -O release.zip
+sudo wget "$(curl -s https://api.github.com/repos/BlueprintFramework/framework/releases/latest | grep 'browser_download_url' | cut -d '"' -f 4)" -O release.zip
 
 # Unzip the release
 unzip release.zip
