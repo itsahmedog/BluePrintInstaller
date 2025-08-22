@@ -51,7 +51,7 @@ To use the installation scripts, simply run this command as root. The script wil
 Must Do ```cd /var/www/pterodactyl``` Before Running Script !
 
 ```bash
-bash <(curl -s https://scripts.itsahmedog.me/install.sh))
+bash <(curl -s https://scripts.itsahmedog.me/install.sh)
 ```
 
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)
